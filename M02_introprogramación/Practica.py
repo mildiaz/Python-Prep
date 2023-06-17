@@ -1,5 +1,5 @@
-print('Hi, there!')
+print('Good morning, there!')
 a = 20
-while a > 1:
+while a > 0:
     print(a)
     a -= 2
